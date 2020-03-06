@@ -1,0 +1,8 @@
+name: storelift_app
+
+dependencies:
+  - python>=3.8
+  - flask
+  - pymysql
+  - sqlalchemy
+  - requests
